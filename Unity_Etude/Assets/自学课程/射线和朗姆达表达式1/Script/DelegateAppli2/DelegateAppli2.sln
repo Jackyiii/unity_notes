@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAppli2", "DelegateAppli2\DelegateAppli2.csproj", "{2BEB0560-89D2-45E4-8512-F2C65C31228C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BEB0560-89D2-45E4-8512-F2C65C31228C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2BEB0560-89D2-45E4-8512-F2C65C31228C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2BEB0560-89D2-45E4-8512-F2C65C31228C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2BEB0560-89D2-45E4-8512-F2C65C31228C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

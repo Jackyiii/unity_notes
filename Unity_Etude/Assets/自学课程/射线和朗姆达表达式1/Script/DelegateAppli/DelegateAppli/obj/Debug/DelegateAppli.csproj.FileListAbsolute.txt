@@ -1,0 +1,5 @@
+/Users/jackyi/Projects/Unity_Projects/UnityProjects/Unity_Etude/Assets/自学课程/射线和朗姆达表达式1/Script/DelegateAppli/DelegateAppli/bin/Debug/DelegateAppli.exe
+/Users/jackyi/Projects/Unity_Projects/UnityProjects/Unity_Etude/Assets/自学课程/射线和朗姆达表达式1/Script/DelegateAppli/DelegateAppli/bin/Debug/DelegateAppli.pdb
+/Users/jackyi/Projects/Unity_Projects/UnityProjects/Unity_Etude/Assets/自学课程/射线和朗姆达表达式1/Script/DelegateAppli/DelegateAppli/obj/Debug/DelegateAppli.csprojAssemblyReference.cache
+/Users/jackyi/Projects/Unity_Projects/UnityProjects/Unity_Etude/Assets/自学课程/射线和朗姆达表达式1/Script/DelegateAppli/DelegateAppli/obj/Debug/DelegateAppli.exe
+/Users/jackyi/Projects/Unity_Projects/UnityProjects/Unity_Etude/Assets/自学课程/射线和朗姆达表达式1/Script/DelegateAppli/DelegateAppli/obj/Debug/DelegateAppli.pdb

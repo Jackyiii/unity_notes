@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamdaTest", "LamdaTest.csproj", "{FF8E25BC-F014-45D1-A83A-E3FA69EC114A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8E25BC-F014-45D1-A83A-E3FA69EC114A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FF8E25BC-F014-45D1-A83A-E3FA69EC114A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FF8E25BC-F014-45D1-A83A-E3FA69EC114A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FF8E25BC-F014-45D1-A83A-E3FA69EC114A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

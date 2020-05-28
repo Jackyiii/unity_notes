@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{C3A70F02-448A-0933-6DFC-13D7ADAB7612}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CoursEx/Scripts/gogo.cs">
+    <Files>
+      <File FileName="Assets/CoursEx/Shader/Ex_shader_01.shader" Line="1" Column="1" />
+      <File FileName="Assets/CoursEx/Scripts/DetecterClicSouris.cs" Line="9" Column="25" />
+      <File FileName="Assets/CoursEx/Scripts/Pyramide.cs" />
+      <File FileName="Assets/CoursEx/Scripts/Attack.cs" Line="18" Column="43" />
+      <File FileName="Assets/CoursEx/Scripts/gogo.cs" Line="19" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cours1410201" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CoursEx" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="gogo.cs" selected="True" />
+                </Node>
+                <Node name="Shader" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="333a50ec-4cbd-4554-806d-c7fc1af06499" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
